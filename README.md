@@ -5,3 +5,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SK9604)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK9604&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
