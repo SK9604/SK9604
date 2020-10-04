@@ -9,6 +9,7 @@
 #### 👩🏻‍💻 Wants to be..
 >- Web Developer
 >- DBA
+>- Cloud Developer
 >- Full Stack Developer
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SK9604&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
