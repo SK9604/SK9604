@@ -6,7 +6,7 @@
 #### 💡 Goal : One Commit per Day / Full Stack
 >start at jun 21, 2020
 
-#### 👩🏻‍💻 Wants to be..
+#### 👩🏻‍💻 Want to be..
 >- Web Developer
 >- DBA
 >- Cloud Developer
