@@ -7,8 +7,6 @@
 >start at jun 21, 2020
 
 #### 👩🏻‍💻 Want to be..
->- Web Developer
->- DBA
 >- Cloud Systems Engineer
 >- Full Stack Developer
  
