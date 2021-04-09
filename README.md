@@ -14,3 +14,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SK9604)](https://github.com/anuraghazra/github-readme-stats)
 
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/56914461/114181754-dbf20d80-997c-11eb-8e09-a169397cf344.png)
